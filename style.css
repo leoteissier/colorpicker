@@ -1,0 +1,20 @@
+.colorPreview {
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+}
+#colorPicker {
+    width: 50px;
+    height: 30px;
+    margin-top: 20px;
+}
+.colorItem {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.colorItem:hover {
+    cursor: pointer;
+}
